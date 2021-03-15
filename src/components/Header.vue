@@ -7,7 +7,7 @@
       <span class="name">
         PicX
       </span>
-      <div class="github-stars">
+      <!--<div class="github-stars">
         <el-tooltip effect="light"
                     content="点个Star支持一下吧 (*￣︶￣)"
                     placement="bottom"
@@ -17,7 +17,7 @@
                @click="goGitHubRepo"
           >
         </el-tooltip>
-      </div>
+      </div>-->
     </div>
 
     <div class="user-info" @click="onUserInfoClick">
